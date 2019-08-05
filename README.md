@@ -10,6 +10,7 @@ Bravo, je savais que tu étais la personne de la situation. Je peux maintenant t
 - /secret-bases : cette page n'est accessible que par le directeur du SHIELD, et retourne la liste de toutes les villes où il y a une Wild Code School (regarde [cette page](https://wildcodeschool.fr/nos-campus/) pour t'aider).
 
 Ton projet doit créer des identifiants pour les utilisateurs suivants :
+
 | Nom   | Mot de passe | Rôle     |
 |-------|--------------|----------|
 | Steve | motdepasse   | CHAMPION |
